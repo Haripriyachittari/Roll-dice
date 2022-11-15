@@ -6,7 +6,7 @@
 body{
     overflow: auto;
     height: 140vh; 
-    background: linear-gradient(rgb(223, 226, 47),rgb(201, 104, 117));
+    background: linear-gradient(rgb(226, 169, 47),rgb(201, 104, 117));
     background-size: cover;
     background-repeat: no-repeat;
 }
